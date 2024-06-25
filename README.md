@@ -8,7 +8,7 @@ Some STATA code reproducing the [survival analysis](https://github.com/JRigh/Sur
 ### Description
 Randomised trial of two treatment regimens for lung cancer. This is a standard survival analysis data set.
 
-###Format
+### Format
 trt:	1=standard 2=test
 celltype:	1=squamous, 2=smallcell, 3=adeno, 4=large
 time:	survival time
@@ -18,5 +18,5 @@ diagtime:	months from diagnosis to randomisation
 age:	in years
 prior:	prior therapy 0=no, 10=yes
 
-###Source
+### Source
 D Kalbfleisch and RL Prentice (1980), The Statistical Analysis of Failure Time Data. Wiley, New York.
